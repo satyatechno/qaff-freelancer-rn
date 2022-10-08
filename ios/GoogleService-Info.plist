@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>624462542238-nkhgedo14rd4tl86bs11phq52jhmm44e.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.624462542238-nkhgedo14rd4tl86bs11phq52jhmm44e</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>624462542238-6merhk2lb8eikn9h8eqrdod250uc5af8.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBv8YaIuoW9uzeQSJDF55NzH5UY0Hym3Pc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>624462542238</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.qaff-freelancer.development</string>
+	<key>PROJECT_ID</key>
+	<string>qaff-7a007</string>
+	<key>STORAGE_BUCKET</key>
+	<string>qaff-7a007.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:624462542238:ios:c236e1d1f5a2104855128f</string>
+	<key>DATABASE_URL</key>
+	<string>https://qaff-7a007-default-rtdb.europe-west1.firebasedatabase.app</string>
+</dict>
+</plist>

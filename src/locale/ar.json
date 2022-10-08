@@ -1,0 +1,378 @@
+{
+  "translation": {
+    "introduction": {
+      "skip": "تخطى",
+      "next": "التالى",
+      "intro-header1": "مرحبا بكم في Qaff",
+      "intro-header2": "اكتب متطلباتك",
+      "intro-header3": "عالم المواهب في متناول يديك",
+      "intro-header4": "ابق على اطلاع",
+      "intro-header5": "ادفع عندما تكون جاهزًا",
+      "intro-desc1": "أكبر سوق لخدمات العمل الحر في دول مجلس التعاون الخليجي",
+      "intro-desc2": "من تصميم موقع الويب الذي تحلم به إلى تجميع القمر الصناعي ، قم بنشر وظيفة لتحقيق ذلك",
+      "intro-desc3": "اختر من بين ملايين العاملين لحسابهم الخاص في كل مجال وقم بتوظيفهم بثقة",
+      "intro-desc4": "تواصل مع المستقل الخاص بك واحصل على تحديثات منتظمة عن عملك",
+      "intro-desc5": "قم بتحرير الأموال إلى المستقل الخاص بك من خلال نظام الدفع الآمن الخاص بنا عندما يقدم العمل الذي يرضيك"
+    },
+    "welcome": {
+      "bannerText": " تقدم بطلب للحصول على وظائف وأصبح مستقلاً أعلى تصنيفًا ",
+      "welcome": "أهلا بك",
+      "signUp": "سجل",
+      "or": "أو",
+      "logIn": "تسجيل الدخول"
+    },
+    "signUp": {
+      "bannerText": " تلقي عروض العمل والحصول على أموال على الفور ",
+      "joinToQaff": "انضم إلى قاف",
+      "emailSignUp": "سجل عن طريق البريد الإلكتروني",
+      "orViaSocialAccounts": "أو عبر الحسابات الاجتماعية",
+      "bySigningUp": "بالتسجيل في Qaff ، فإنك توافق على",
+      "terms": "بنود الخدمة وخصوصية السياسة"
+    },
+    "createAccount": {
+      "bannerText": "كن مستقلًا ، اعمل وفقًا لشروطك الخاصة",
+      "createAccount": "إنشاء حساب",
+      "firstName": "الاسم الاول",
+      "lastName": "الكنية",
+      "gender": "الجنس (اختياري)",
+      "email": "البريد الإلكتروني",
+      "next": "التالى",
+      "already": "هل لديك حساب",
+      "signIn": "تسجيل الدخول"
+    },
+    "otpVerification": {
+      "bannerText": "كن مستقلًا ، اعمل وفقًا لشروطك الخاصة",
+      "createAccount": "إنشاء حساب",
+      "enterOtp": "أدخل OTP المرسل على بريدك الإلكتروني",
+      "resendOtp": "إعادة إرسال OTP",
+      "verify": "تحقق",
+      "otpRequire": "مطلوب OTP"
+    },
+    "createPassword": {
+      "bannerText": "كن مستقلًا ، اعمل وفقًا لشروطك الخاصة",
+      "createAccount": "إنشاء حساب",
+      "createPassword": "أنشئ كلمة مرور",
+      "confirmPassword": "تأكيد كلمة المرور",
+      "createAccountButton": "إنشاء حساب",
+      "passwordNote": " ملاحظة: يجب أن تتكون كلمة المرور من 8 أحرف على الأقل",
+      "passwordNotMatched": "كلمة المرور غير متطابقة"
+    },
+    "login": {
+      "bannerText": "ابحث عن وظائف أثناء التنقل",
+      "login": "تسجيل الدخول",
+      "email": "عنوان البريد الالكترونى",
+      "password": "كلمه السر",
+      "forgot": "هل نسيت كلمة المرور؟",
+      "loginButton": "تسجيل الدخول",
+      "orVia": "أو عبر الشبكات الاجتماعية",
+      "dontHaveAnAccount": "ليس لديك حساب",
+      "signUp": "سجل"
+    },
+    "recoverPassword": {
+      "bannerText": "ابحث عن وظائف أثناء التنقل",
+      "recoverPassword": "إستعادة كلمة المرور",
+      "enterAnEmail": "أدخل بريدًا إلكترونيًا لإرسال تذكير بكلمة المرور إليك",
+      "send": "إرسال",
+      "dontHaveAnAccount": "ليس لديك حساب",
+      "signup": "سجل"
+    },
+    "recoverOtpVerification": {
+      "bannerText": "ابحث عن وظائف أثناء التنقل",
+      "recoverPassword": "إستعادة كلمة المرور",
+      "enterOtp": "أدخل OTP المرسل على بريدك الإلكتروني",
+      "resendOtp": "إعادة إرسال OTP",
+      "verify": "تحقق",
+      "otpRequired": "مطلوب OTP"
+    },
+    "createNewPassword": {
+      "bannerText": "ابحث عن وظائف أثناء التنقل",
+      "recoverPassword": "إستعادة كلمة المرور",
+      "createNewPassword": "إنشاء كلمة مرور جديدة",
+      "confirmPassword": "تأكيد كلمة المرور",
+      "changeButton": "يتغيرون",
+      "passwordNote": " ملاحظة: يجب أن تتكون كلمة المرور من 8 أحرف على الأقل",
+      "passwordNotMatched": "كلمة المرور غير متطابقة"
+    },
+    "jobs": {
+      "jobs": "وظائف",
+      "newsfeed": "Newsfeed",
+      "noData": "لاتوجد بيانات",
+      "save": "حفظ",
+      "saved": "تم الحفظ",
+      "apply": "تطبيق"
+    },
+    "filters": {
+      "filters": "المرشحات",
+      "clear": "واضح",
+      "apply": "تطبيق",
+      "sort": "فرز",
+      "numberOfProposals": "عدد العروض",
+      "newest": "الأحدث",
+      "oldest": "الأقدم",
+      "highestPrice": "اغلى سعر",
+      "lowestPrice": "أقل سعر",
+      "longTimeline": "جدول زمني طويل",
+      "shortTimeline": "جدول زمني قصير",
+      "anyNoOfProposals": "أي عدد من المقترحات"
+    },
+    "projectDetails": {
+      "projectDetails": "تفاصيل المشروع",
+      "timeline": "الجدول الزمني",
+      "milestonePayments": "المدفوعات الهامة",
+      "projectId": "معرف المشروع",
+      "attachment": "المرفق",
+      "noAttachment": "لم يتم العثور على مرفق",
+      "save": "حفظ",
+      "saved": "تم الحفظ",
+      "noData": "لاتوجد بيانات",
+      "apply": "تطبيق",
+      "experience": "مستوى الخبرة: خبير",
+      "skillsRequired": "المهارات المطلوبة"
+    },
+    "mySuggestion": {
+      "mySuggestion": "اقتراحي",
+      "period": "فترة",
+      "expectedText": "الوقت المتوقع لإنجاز المشروع في أيام",
+      "day": "يوم",
+      "price": "السعر",
+      "toBePaidText": "على صاحب المشروع",
+      "milestonePayments": "المدفوعات الهامة",
+      "payment": "دفع",
+      "nameOfMilestone": "اسم المعلم:",
+      "amount": "كمية",
+      "dueDate": "تاريخ الاستحقاق",
+      "deliverable": "التسليم (اختياري)",
+      "selectDate": "حدد تاريخ",
+      "brief": "نبذة",
+      "saveDraft": "حفظ المسودة",
+      "submitOffer": "تقديم صفقة",
+      "addAttachment": "إضافة مرفق",
+      "optional": "(اختياري)",
+      "takePhoto": "تصوير",
+      "fromGallery": "من المعرض",
+      "otherFile": "ملف آخر",
+      "cancel": "إلغاء"
+    },
+    "proposalSent": {
+      "proposalSent": "تم إرسال الاقتراح",
+      "offerSentTo": "العرض المرسل إلى",
+      "notifyText": "سنخطرك عندما",
+      "respondText": "يستجيب لعرضك"
+    },
+    "proposals": {
+      "proposals": "اقتراحات",
+      "active": "نشيط",
+      "archived": "مؤرشف",
+      "offers": "عروض",
+      "invitationToInterview": "دعوة لإجراء مقابلة",
+      "activeProposals": "مقترحات نشطة",
+      "rejectedProposals": "المقترحات المرفوضة",
+      "archivedProposals": "مقترحات مؤرشفة",
+      "received": "تم الاستلام",
+      "noData": "لاتوجد بيانات",
+      "submittedProposal": "المقترحات المقدمة"
+    },
+    "proposalDetails": {
+      "proposalDetails": "تفاصيل العروض",
+      "experience": "مستوى الخبرة: خبير",
+      "viewJobPosting": "عرض الوظيفة الشاغرة",
+      "yourProposedTerms": "الشروط المقترحة الخاصة بك",
+      "clientBudget": "ميزانية العميل",
+      "howToPaid": "كيف تريد أن يتم الدفع لك؟",
+      "withdrawProposal": "سحب الاقتراح",
+      "changeTerms": "تغيير الشروط",
+      "viewOffer": "عرض",
+      "viewJobPostingButton": "عرض الوظيفة الشاغرة",
+      "noData": "لاتوجد بيانات",
+      "milestone": "معلما"
+    },
+    "proposalProjectDetails": {
+      "projectDetails": "تفاصيل المشروع",
+      "timeline": "الجدول الزمني",
+      "milestonePayments": "المدفوعات الهامة",
+      "projectId": " معرف المشروع",
+      "attachment": "المرفق",
+      "noAttachment": "لم يتم العثور على مرفق",
+      "noData": "لاتوجد بيانات",
+      "experience": "مستوى الخبرة: خبير",
+      "skillsRequired": "المهارات المطلوبة"
+    },
+    "viewOffer": {
+      "viewOffer": "عرض",
+      "timeline": "الجدول الزمني",
+      "milestonePayments": "المدفوعات الهامة",
+      "attachment": "المرفق",
+      "noAttachment": "لم يتم العثور على مرفق",
+      "noData": "لاتوجد بيانات",
+      "price": "السعر",
+      "days": "أيام"
+    },
+    "contracts": {
+      "contracts": "انكماش",
+      "activeContracts": "العقود النشطة",
+      "closedContracts": "العقود المغلقة",
+      "noData": "لاتوجد بيانات",
+      "cancelledProjects": "المشاريع الملغاة",
+      "disputedProjects": "المشاريع المتنازع عليها",
+      "hiredBy": "تم توضيفه عن طريق"
+    },
+    "contractRoom": {
+      "contractRoom": "غرفة العقد",
+      "activeSince": "نشط منذ",
+      "milestonesPaid": "المعالم المدفوعة",
+      "contractInfo": "معلومات العقد",
+      "startDate": "تاريخ البدء",
+      "viewHistory": "عرض محفوظات تغييرات العقد",
+      "contractId": "معرف العقد",
+      "description": "وصف العمل",
+      "viewOffer": "عرض",
+      "viewJobPosting": "عرض الوظيفة الشاغرة",
+      "noData": "لاتوجد بيانات",
+      "milestonePayments": "المدفوعات الهامة",
+      "request": "طلب"
+    },
+    "header": {
+      "search": "بحث"
+    },
+    "notification": {
+      "notification": "تنبيه",
+      "earlier": "سابقا",
+      "latest": "الأخيرة",
+      "noData": "ليس لديك إخطارات في",
+      "moment": "لحظة"
+    },
+    "profile": {
+      "myProfile": "ملفي",
+      "myQaff": "قاف بلدي",
+      "personalProfile": "الملف الشخصي",
+      "saved": "تم الحفظ",
+      "general": "جنرال لواء",
+      "onlineStatus": "الموجودين",
+      "payments": "المدفوعات",
+      "inviteFriends": "ادعو أصدقاء",
+      "logout": "Logout",
+      "postAJob": "انشر وظيفة"
+    },
+    "viewProfile": {
+      "viewProfile": "عرض الصفحة الشخصية",
+      "editProfile": "تعديل الملف الشخصي",
+      "editPersonalInfo": "تحرير PersonalInfo",
+      "about": "حول",
+      "reviews": "المراجعات",
+      "save": "حفظ"
+    },
+    "summary": {
+      "summary": "ملخص",
+      "addSummary": "أضف الملخص",
+      "summaryText": "أضف ملخصًا قصيرًا لإخبار أي صاحب عمل محتمل عن من أنت ولماذا أنت الأفضل لوظيفته",
+      "editSummary": "تحرير موجز",
+      "title": "عنوان",
+      "description": "وصف",
+      "next": "التالى"
+    },
+    "portfolio": {
+      "portfolio": "محفظة",
+      "addPortfolio": "إضافة محفظة",
+      "portfolioText": "إضافة عنصر المحفظة الخاصة بك. اظهار موهبتك!",
+      "seeAll": "اظهار الكل",
+      "editPortfolio": "تحرير المحفظة",
+      "title": "عنوان",
+      "description": "وصف",
+      "add": "أضف",
+      "save": "حفظ",
+      "addAttachment": "إضافة مرفق",
+      "takePhoto": "تصوير",
+      "fromGallery": "من المعرض",
+      "otherFile": "ملف آخر",
+      "cancel": "إلغاء"
+    },
+    "portfolioList": {
+      "portfolio": "محفظة",
+      "noData": "لا توجد محفظة في ملف التعريف الخاص بك الرجاء إضافة محفظة جديدة"
+    },
+    "portfolioDetails": {
+      "portfolio": "محفظة",
+      "noData": "لاتوجد بيانات",
+      "edit": "تعديل",
+      "delete": "حذف"
+    },
+    "skills": {
+      "skills": "مهارات",
+      "skillsText": "حدد المهارات التي تتناسب مع مؤهلاتك وخبراتك على أفضل وجه وسنوفر لك الوظائف التي تناسب ملفك الشخصي",
+      "selectSkills": "حدد المهارات",
+      "editSkills": "تحرير المهارات",
+      "addSkills": "أضف مهارات",
+      "noSkills": "لم يتم إضافة مهارات إلى ملف التعريف الخاص بك",
+      "add": "أضف",
+      "cancel": "إلغاء",
+      "enterSkill": "أدخل المهارة",
+      "next": "التالى"
+    },
+    "exams": {
+      "exams": "الامتحانات",
+      "examsText": "حدد الاختبارات التي تؤهلك لها وسنوفر لك الوظائف الأكثر ملاءمة لملفك الشخصي",
+      "selectExams": "حدد الامتحانات",
+      "editExams": "تحرير الامتحانات",
+      "addExams": "أضف الامتحانات",
+      "noExams": "لا توجد امتحانات مضافة إلى ملفك الشخصي",
+      "add": "أضف",
+      "cancel": "إلغاء",
+      "enterExam": "أدخل الامتحان",
+      "next": "التالى"
+    },
+    "personalInfo": {
+      "viewProfile": "عرض الصفحة الشخصية",
+      "general": "جنرال لواء",
+      "firstName": "الاسم الاول",
+      "lastName": "الكنية",
+      "contacts": "جهات الاتصال",
+      "email": "البريد الإلكتروني",
+      "other": "آخر",
+      "gender": "جنس",
+      "location": "موقعك",
+      "birthday": "عيد الميلاد",
+      "edit": "تعديل",
+      "save": "حفظ",
+      "chooseOption": "إختر خيارا",
+      "takePhoto": "تصوير",
+      "fromGallery": "من المعرض",
+      "cancel": "إلغاء"
+    },
+    "editProfile": {
+      "editProfile": "تعديل الملف الشخصي",
+      "firstName": "الاسم الاول",
+      "lastName": "الكنية",
+      "selectBirthday": "اختر تاريخ الميلاد",
+      "next": "التالى",
+      "enter": "أدخل"
+    },
+    "saved": {
+      "saved": "تم الحفظ",
+      "noData": "ليس لديك أي مشاريع محفوظة في الوقت الحالي"
+    },
+    "changeTerms": {
+      "mySuggestion": "اقتراحي",
+      "period": "فترة",
+      "expectedText": "الوقت المتوقع لإنجاز المشروع في أيام",
+      "day": "يوم",
+      "price": "السعر",
+      "toBePaidText": "على صاحب المشروع",
+      "milestonePayments": "المدفوعات الهامة",
+      "payment": "دفع",
+      "nameOfMilestone": "اسم المعلم:",
+      "amount": "كمية",
+      "dueDate": "تاريخ الاستحقاق",
+      "deliverable": "التسليم (اختياري)",
+      "selectDate": "حدد تاريخ",
+      "brief": "نبذة",
+      "saveDraft": "حفظ المسودة",
+      "submitOffer": "تقديم صفقة",
+      "addAttachment": "إضافة مرفق",
+      "optional": "(اختياري)",
+      "takePhoto": "تصوير",
+      "fromGallery": "من المعرض",
+      "otherFile": "ملف آخر",
+      "cancel": "إلغاء"
+    }
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "project_info": {
+    "project_number": "624462542238",
+    "firebase_url": "https://qaff-7a007-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "qaff-7a007",
+    "storage_bucket": "qaff-7a007.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624462542238:android:10ea87ad5a5aee5055128f",
+        "android_client_info": {
+          "package_name": "com.qaff"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "624462542238-jl7mv58ujncs2ogvsl9ot5m52c4cakev.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.qaff",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "624462542238-o8ed76qd57r09q8prfegeu7367n9q39c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.qaff",
+            "certificate_hash": "57844280933eff1839e573fcc8b5844fdeb74ff1"
+          }
+        },
+        {
+          "client_id": "624462542238-eomoquutg22qiu7k0jff91qvv8b8e35u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAD-9GGT_t6jq9WrH4uI-ddH3Hm3_tD8g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "624462542238-eomoquutg22qiu7k0jff91qvv8b8e35u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "624462542238-nkhgedo14rd4tl86bs11phq52jhmm44e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.qaff-freelancer.development"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624462542238:android:3532c1ef4c59be3e55128f",
+        "android_client_info": {
+          "package_name": "com.qaff_freelancer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "624462542238-6merhk2lb8eikn9h8eqrdod250uc5af8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.qaff_freelancer",
+            "certificate_hash": "57844280933eff1839e573fcc8b5844fdeb74ff1"
+          }
+        },
+        {
+          "client_id": "624462542238-n79rpsljudmjohmk31d02hd84ksqfesf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.qaff_freelancer",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "624462542238-eomoquutg22qiu7k0jff91qvv8b8e35u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAD-9GGT_t6jq9WrH4uI-ddH3Hm3_tD8g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "624462542238-eomoquutg22qiu7k0jff91qvv8b8e35u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "624462542238-nkhgedo14rd4tl86bs11phq52jhmm44e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.qaff-freelancer.development"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

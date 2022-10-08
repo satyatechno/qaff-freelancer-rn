@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Qaff Freelancer</string>
+    <string name="facebook_app_id">446012996499445</string>
+    <string name="freshchat_file_provider_authority">com.qaff_freelancer.provider</string>
+</resources>
